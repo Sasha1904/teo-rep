@@ -1,6 +1,7 @@
 ##  Explanatory Data Analysis (EDA) - students and math
 
 This is EDA for dataset with studets' scores in math exam and a number a factors in their personal and school live that can affect these scores, namely:
+
 1 student's school
 
 2 sex 
