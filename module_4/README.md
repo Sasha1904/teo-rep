@@ -1,7 +1,5 @@
-## Trip Advisor Rating
+## BANK Credit Scoring 
 
-We have a dataset with **Trip Advisor** restaurant ratings and quite a few parameters. We need to create a model which will predict a restaurant's rating. 
+We have a Bank dataset with **retail Customers info**. We need to create analyze it, clean and prep the data, and then design a scoring model which will predict whether a Customer will default on a loan or not.
 
-Please check **Kaggle competition** here https://www.kaggle.com/c/sf-dst-restaurant-rating/
-
-**My notebook** on Kaggle for this competition is here https://www.kaggle.com/alexandrakhudyakova/sf-tripadvisor-rating-v2-7-khudyakova
+Please check **Kaggle competition** here https://www.kaggle.com/c/sf-dst-scoring
